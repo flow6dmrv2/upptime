@@ -9,6 +9,12 @@ sites:
     url: https://www.applicadthai.com
   - name: AppliCAD Indonesia
     url: https://www.applicadindonesia.com
+  - name: 8Baht
+    url: https://8baht.com
+  - name: Deti
+    url: https://deti.co.th
+  - name: AppliCAD
+    url: https://www.applicadthai.com
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
