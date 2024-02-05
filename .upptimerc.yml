@@ -7,6 +7,8 @@ sites:
     url: https://www.google.com
   - name: AppliCAD
     url: https://www.applicadthai.com
+  - name: Crm AppliCAD
+    url: https://crm.appintesys.co/m.php
   - name: AppliCAD Indonesia
     url: https://www.applicadindonesia.com
   - name: 8Baht
@@ -15,6 +17,8 @@ sites:
     url: https://deti.co.th
   - name: AppliCAD
     url: https://www.applicadthai.com
+  - name: ThaiGstarCAD
+    url: https://thaigstarcad.com
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
