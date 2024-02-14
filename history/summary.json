@@ -34,7 +34,7 @@
     "timeMonth": 64,
     "timeYear": 65,
     "dailyMinutesDown": {
-      "2024-02-14": 67,
+      "2024-02-14": 1380,
       "2024-02-13": 1440,
       "2024-02-12": 1440,
       "2024-02-11": 1440,
@@ -78,9 +78,9 @@
     "url": "https://crm.appintesys.co/m.php",
     "icon": "https://icons.duckduckgo.com/ip3/crm.appintesys.co.ico",
     "slug": "crm-appli-cad",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -89,7 +89,9 @@
     "timeWeek": 946,
     "timeMonth": 951,
     "timeYear": 951,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-14": 0
+    }
   },
   {
     "name": "AppliCAD Indonesia",
@@ -126,7 +128,7 @@
     "timeMonth": 82,
     "timeYear": 82,
     "dailyMinutesDown": {
-      "2024-02-14": 67,
+      "2024-02-14": 1380,
       "2024-02-13": 1440,
       "2024-02-12": 1440,
       "2024-02-11": 1440,
@@ -199,7 +201,7 @@
     "timeMonth": 64,
     "timeYear": 65,
     "dailyMinutesDown": {
-      "2024-02-14": 67,
+      "2024-02-14": 1380,
       "2024-02-13": 1440,
       "2024-02-12": 1440,
       "2024-02-11": 1440,
@@ -244,11 +246,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/thaigstarcad.com.ico",
     "slug": "thai-gstar-cad",
     "status": "up",
-    "uptime": "97.05%",
+    "uptime": "97.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "96.25%",
-    "uptimeMonth": "97.05%",
-    "uptimeYear": "97.05%",
+    "uptimeMonth": "97.32%",
+    "uptimeYear": "97.32%",
     "time": 2894,
     "timeDay": 1259,
     "timeWeek": 1255,
