@@ -34,7 +34,7 @@
     "timeMonth": 92,
     "timeYear": 73,
     "dailyMinutesDown": {
-      "2024-03-11": 67,
+      "2024-03-11": 1380,
       "2024-03-10": 1440,
       "2024-03-09": 1440,
       "2024-03-08": 1440,
@@ -104,9 +104,9 @@
     "url": "https://crm.appintesys.co/m.php",
     "icon": "https://icons.duckduckgo.com/ip3/crm.appintesys.co.ico",
     "slug": "crm-appli-cad",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.95%",
@@ -116,6 +116,7 @@
     "timeMonth": 937,
     "timeYear": 943,
     "dailyMinutesDown": {
+      "2024-03-11": 0,
       "2024-03-01": 25
     }
   },
@@ -154,7 +155,7 @@
     "timeMonth": 82,
     "timeYear": 81,
     "dailyMinutesDown": {
-      "2024-03-11": 67,
+      "2024-03-11": 1380,
       "2024-03-10": 1440,
       "2024-03-09": 1440,
       "2024-03-08": 1440,
@@ -253,7 +254,7 @@
     "timeMonth": 92,
     "timeYear": 73,
     "dailyMinutesDown": {
-      "2024-03-11": 67,
+      "2024-03-11": 1380,
       "2024-03-10": 1440,
       "2024-03-09": 1440,
       "2024-03-08": 1440,
@@ -324,15 +325,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/thaigstarcad.com.ico",
     "slug": "thai-gstar-cad",
     "status": "up",
-    "uptime": "99.25%",
+    "uptime": "99.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.25%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.27%",
     "time": 2358,
     "timeDay": 1203,
     "timeWeek": 3746,
-    "timeMonth": 1930,
+    "timeMonth": 1929,
     "timeYear": 2358,
     "dailyMinutesDown": {
       "2024-02-11": 110,
