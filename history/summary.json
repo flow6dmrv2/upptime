@@ -34,7 +34,7 @@
     "timeMonth": 91,
     "timeYear": 82,
     "dailyMinutesDown": {
-      "2024-04-29": 71,
+      "2024-04-29": 721,
       "2024-04-28": 1440,
       "2024-04-27": 1440,
       "2024-04-26": 1440,
@@ -153,9 +153,9 @@
     "url": "https://crm.appintesys.co/m.php",
     "icon": "https://icons.duckduckgo.com/ip3/crm.appintesys.co.ico",
     "slug": "crm-appli-cad",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.92%",
@@ -165,6 +165,7 @@
     "timeMonth": 962,
     "timeYear": 956,
     "dailyMinutesDown": {
+      "2024-04-29": 0,
       "2024-04-05": 24,
       "2024-04-01": 27,
       "2024-03-11": 23,
@@ -206,7 +207,7 @@
     "timeMonth": 92,
     "timeYear": 86,
     "dailyMinutesDown": {
-      "2024-04-29": 71,
+      "2024-04-29": 721,
       "2024-04-28": 1440,
       "2024-04-27": 1440,
       "2024-04-26": 1440,
@@ -354,7 +355,7 @@
     "timeMonth": 91,
     "timeYear": 82,
     "dailyMinutesDown": {
-      "2024-04-29": 71,
+      "2024-04-29": 721,
       "2024-04-28": 1440,
       "2024-04-27": 1440,
       "2024-04-26": 1440,
