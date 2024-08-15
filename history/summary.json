@@ -36,7 +36,7 @@
     "timeMonth": 122,
     "timeYear": 97,
     "dailyMinutesDown": {
-      "2024-08-15": 76,
+      "2024-08-15": 571,
       "2024-08-14": 1440,
       "2024-08-13": 1440,
       "2024-08-12": 1440,
@@ -323,7 +323,7 @@
     "timeMonth": 110,
     "timeYear": 93,
     "dailyMinutesDown": {
-      "2024-08-15": 76,
+      "2024-08-15": 571,
       "2024-08-14": 1440,
       "2024-08-13": 1440,
       "2024-08-12": 1440,
@@ -579,7 +579,7 @@
     "timeMonth": 122,
     "timeYear": 97,
     "dailyMinutesDown": {
-      "2024-08-15": 76,
+      "2024-08-15": 571,
       "2024-08-14": 1440,
       "2024-08-13": 1440,
       "2024-08-12": 1440,
@@ -806,9 +806,9 @@
     "url": "https://thaigstarcad.com",
     "icon": "https://icons.duckduckgo.com/ip3/thaigstarcad.com.ico",
     "slug": "thai-gstar-cad",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
@@ -818,6 +818,7 @@
     "timeMonth": 1250,
     "timeYear": 1468,
     "dailyMinutesDown": {
+      "2024-08-15": 0,
       "2024-05-17": 35,
       "2024-03-20": 91,
       "2024-02-11": 110,
